@@ -26,8 +26,6 @@ I value quality over quantity and I believe that code should document itself.
 ### Professional Work History 
 - Lead developer & designer of various startup web applications and websites.  
 
-### How I Work   
-
 I've been a freelancer for the entirety of my software development career, alongside day-trading.     
 
 As a result, there's nothing too extensive here. 
