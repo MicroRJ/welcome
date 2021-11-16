@@ -70,8 +70,9 @@ Reach out to me if you'd like to see or learn more about them.
 ### Work Example
 As a freelancer, I've had to work both on the front and back end of web applications. 
 Some of the tools I've used are Angular, React, Firebase, Heroku, Node JS, MongoDB, and Spring. 
-This is an example of work I had to do for a client. 
-He wanted a website that he could showcase to his investors in less than a week.  
+
+This is an example of work I had to do for a client.  
+He wanted a website that he could showcase to his investors in less than a week.
 This website required an admin section where he could manage his inventory. 
 For the database, I ended up using firebase, as I was very familiarized with it from previous projects although MongoDB would have been a better fit. 
 This meant that I could focus more on getting a minimum viable product that was functional and interactive ready within the short deadline. 
