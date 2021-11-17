@@ -63,7 +63,7 @@ Reach out to me if you'd like to see or learn more about them.
 - [PRIVATE] **DETROIT**,      GODSPEED, Game Engine from scratch. 
 - [PRIVATE] **AXON**,         Android music player. 
 - [PRIVATE] **HELIUM**,       Android recorder. 
-- [PRIVATE] **JQUICK**,       Java library that parses and maps JSON to actual java objects with next to NO effort. 
+- [PRIVATE] **JQUICK**,       Java library that parses and maps JSON to actual Java objects with next to NO effort. 
 - [PUBLIC ] **SUPERELLIPSE**, Android library for creating super ellipses. 
 
 
