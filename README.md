@@ -1,7 +1,7 @@
 # Welcome 
 
 ## My Information
-- Dayan Rodriguez, Software Developer
+- Dayan Rodriguez, Self Thought Software Developer
 
 ## Location
 - US, Tampa FL, 33604. 
