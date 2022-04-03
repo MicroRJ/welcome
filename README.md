@@ -59,30 +59,15 @@ Most of them are private as I like protecting my original ideas.
 Reach out to me if you'd like to see or learn more about them. 
 
 ### Current Projects
-- [PRIVATE] **DBOT**,         Framework for building discord bots. 
-- [PRIVATE] **DETROIT**,      GODSPEED, Game Engine from scratch. 
-- [PRIVATE] **AXON**,         Android music player. 
-- [PRIVATE] **HELIUM**,       Android recorder. 
-- [PRIVATE] **JQUICK**,       Java library that parses and maps JSON to actual Java objects with next to NO effort. 
-- [PUBLIC ] **SUPERELLIPSE**, Android library for creating super ellipses. 
+- [PRIVATE] **DBOT**,         Framework for building discord bots. C,C++,Java.
+- [PRIVATE] **DETROIT**,      A work in progress game engine, C and C++.
+- [PRIVATE] **AXON**,         Android music player. Java.
+- [PRIVATE] **HELIUM**,       Android recorder. Java.
+- [PRIVATE] **JQUICK**,       Java/Android library that parses and maps JSON to actual Java objects using the reflection api.
+- [PUBLIC ] **SUPERELLIPSE**, Android library for creating super ellipses.
+- [PRIVATE] **CMADE**,        Build and automation system for C and Java, C, C++.
+- [PRIVATE] **VOID**,         A work in progress programming language. C, C++.
 
-
-### Work Example
-As a freelancer, I've had to work both on the front and back end of web applications. 
-Some of the tools I've used are Angular, React, Firebase, Heroku, Node JS, MongoDB, and Spring. 
-
-This is an example of work I had to do for a client.  
-He wanted a website that he could showcase to his investors in less than a week.
-This website required an admin section where he could manage his inventory. 
-For the database, I ended up using firebase, as I was very familiarized with it from previous projects although MongoDB would have been a better fit. 
-This meant that I could focus more on getting a minimum viable product that was functional and interactive ready within the short deadline. 
-Having a database service that interfaces with JSON natively meant that it would work with JSON Java libraries. In this case, I used my own, because it required next to no setup. 
-This is just one example and admittedly, I would not use Angular again for such projects. Being extremely cumbersome and honestly, a pain to set up. 
-That is one of the reasons why I later switched to using React.   
-React allowed me to be more expressive and forward compatible, not to mention how much faster it was to set up, it being a JS library.
-I started using React with Electron. 
-Even though I am a native developer for both Android and Windows I was interested in the idea of a single code base and cross-platform user-interface support, which would allow me to expand to bigger more elaborate jobs without taking too much time or adding extra costs.
-In many cases, clients wanted a native because it could be used offline or simply because it added an extra layer of professionalism.  
 
 ### I consider myself to be a good fit because I value the following principles. 
  
