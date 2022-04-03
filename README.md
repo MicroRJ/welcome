@@ -16,7 +16,7 @@
 
 ### About Me
 
-I’ve been programming for about 6 years.                                                                                                         
+I’ve been programming for about 7 years.                                                                                                         
 Most of my time programming has been spent on personal projects and freelancing.                                                                                                            
 For the most part, I work on the Windows OS (using Win32 - C++).                                                                                                                             
 I have an extensive background in creating low and high-level programs.                                                                                                                        
